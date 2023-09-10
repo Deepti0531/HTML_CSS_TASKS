@@ -1,0 +1,10 @@
+#tab{
+    background-color: turquoise;
+    border-radius: 10px;
+}
+th,td{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
